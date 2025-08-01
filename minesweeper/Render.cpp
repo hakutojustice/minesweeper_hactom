@@ -2,10 +2,13 @@
 #include "GameCore.h"
 #include "Constants.h"
 
+
 void DrawTitle() {
     DrawString(200, 100, "マインスイーパー", GetColor(255, 255, 255));
     DrawString(200, 130, "Enterキーで開始", GetColor(255, 200, 200));
 }
+
+
 
 void DrawGrid() {
     for (int y = 0; y < GRID_HEIGHT; y++) {
@@ -15,15 +18,23 @@ void DrawGrid() {
 
             if (IsOpened(x, y)) {
                 if (GetCell(x, y) == 1) {
-                    DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(255, 0, 0), TRUE); // 地雷
+                    // 地雷マス
+                    DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(255, 0, 0), TRUE);
                 }
                 else {
-                    DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(200, 200, 200), TRUE); // 開封済
-                    DrawFormatString(px, py, GetColor(255, 100, 100), "%d", 1);
+                    // 通常開封済みマス
+                    DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(200, 200, 200), TRUE);
+
+                    // 周囲の地雷数を描画（0なら何も表示しない）
+                    int count = GetAdjacentBombs(x, y);
+                    if (count > 0) {
+                        DrawFormatString(px + 10, py + 8, GetColor(255, 255, 255), "%d", count);
+                    }
                 }
             }
             else {
-                DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(100, 100, 100), TRUE); // 未開封
+                // 未開封マス
+                DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(100, 100, 100), TRUE);
             }
         }
     }

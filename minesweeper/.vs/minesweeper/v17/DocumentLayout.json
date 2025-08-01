@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:GameCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:GameCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:SceneControl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:SceneControl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8AEF920-5C2C-4AEC-96C5-F540B53A665A}|minesweeper.vcxproj|solutionrelative:Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Constants.h",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Constants.h",
+              "RelativeDocumentMoniker": "Constants.h",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Constants.h",
+              "RelativeToolTip": "Constants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T05:04:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Resource.cpp",
+              "RelativeDocumentMoniker": "Resource.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Resource.cpp",
+              "RelativeToolTip": "Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T05:01:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.h",
+              "RelativeDocumentMoniker": "Input.h",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.h",
+              "RelativeToolTip": "Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T05:24:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Render.h",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.h",
+              "RelativeDocumentMoniker": "Render.h",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.h",
+              "RelativeToolTip": "Render.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T05:24:35.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneControl.h",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.h",
+              "RelativeDocumentMoniker": "SceneControl.h",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.h",
+              "RelativeToolTip": "SceneControl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T05:23:42.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCore.h",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.h",
+              "RelativeDocumentMoniker": "GameCore.h",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.h",
+              "RelativeToolTip": "GameCore.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T05:23:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameCore.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.cpp",
+              "RelativeDocumentMoniker": "GameCore.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\GameCore.cpp",
+              "RelativeToolTip": "GameCore.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T04:59:38.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-01T03:34:57.361Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.cpp",
+              "RelativeDocumentMoniker": "Render.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Render.cpp",
+              "RelativeToolTip": "Render.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T05:00:02.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneControl.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.cpp",
+              "RelativeDocumentMoniker": "SceneControl.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\SceneControl.cpp",
+              "RelativeToolTip": "SceneControl.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T04:59:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.cpp",
+              "RelativeDocumentMoniker": "Input.cpp",
+              "ToolTip": "C:\\Users\\t_obuchi\\Desktop\\Github\\minesweeper_hactom\\minesweeper\\Input.cpp",
+              "RelativeToolTip": "Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T05:00:30.451Z"
             }
           ]
         }

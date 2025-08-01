@@ -1,5 +1,5 @@
 #include "DxLib.h"
-#include "GameCore.h" // Å© Ç±Ç±ÇèCê≥
+#include "GameCore.h"
 #include "Constants.h"
 
 void DrawTitle() {
@@ -19,6 +19,7 @@ void DrawGrid() {
                 }
                 else {
                     DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(200, 200, 200), TRUE); // äJïïçœ
+                    DrawFormatString(px, py, GetColor(255, 100, 100), "%d", 1);
                 }
             }
             else {

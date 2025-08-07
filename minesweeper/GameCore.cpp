@@ -7,6 +7,11 @@ static bool opened[GRID_HEIGHT][GRID_WIDTH];       // マスが開かれているか
 static int adjacentBombs[GRID_HEIGHT][GRID_WIDTH]; // 周囲の地雷数
 static bool gameOver = false;
 static bool isFirstClick = true;                   // 初クリックフラグ
+static bool flagged[GRID_HEIGHT][GRID_WIDTH]; // 旗の状態
+bool IsFlagged(int x, int y) {
+    return flagged[y][x];
+}
+
 
 // 指定マスを避けて地雷を配置
 void PlaceBombs(int avoidX, int avoidY) {
@@ -103,6 +108,21 @@ void HandleMouseClick() {
         }
     }
 }
+
+// 右クリックで地雷源に旗建てる
+void HandleRightClick() {
+    int mx, my;
+    GetMousePoint(&mx, &my);
+    int x = mx / TILE_SIZE;
+    int y = my / TILE_SIZE;
+
+    if (x < 0 || x >= GRID_WIDTH || y < 0 || y >= GRID_HEIGHT) return;
+    if (opened[y][x]) return; // 開かれてるマスは対象外
+
+    // 旗のON/OFF切り替え
+    flagged[y][x] = !flagged[y][x];
+}
+
 
 // 周囲の地雷数を返す
 int GetAdjacentBombs(int x, int y) {

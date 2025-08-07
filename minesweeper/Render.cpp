@@ -35,6 +35,10 @@ void DrawGrid() {
             else {
                 // 未開封マス
                 DrawBox(px, py, px + TILE_SIZE, py + TILE_SIZE, GetColor(100, 100, 100), TRUE);
+                // フラグが立っていたら描画
+                if (IsFlagged(x, y)) {
+                    DrawString(px + 8, py + 8, "F", GetColor(255, 255, 0)); // 黄色のFを旗の代わりに表示
+                }
             }
         }
     }

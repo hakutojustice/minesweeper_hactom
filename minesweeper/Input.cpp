@@ -7,3 +7,7 @@ bool IsEnterPressed() {
 bool IsMouseClicked() {
     return GetMouseInput() & MOUSE_INPUT_LEFT;
 }
+
+bool IsRightMouseClicked() {
+    return GetMouseInput() & MOUSE_INPUT_RIGHT;
+}
